@@ -1,4 +1,4 @@
-# Useful Resources
+# Helpful Resources
 
 
 ## SQL 
