@@ -1,7 +1,7 @@
-#Useful Resources
+# Useful Resources
 
 
-##SQL 
+## SQL 
 
 
 W3Schools
@@ -17,7 +17,7 @@ Connection Strings
 https://www.connectionstrings.com/
 
 
-##PHP
+## PHP
 
 W3Schools
 https://www.w3schools.com/php
