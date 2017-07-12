@@ -1,7 +1,8 @@
-Useful Resources:
+#Useful Resources
 
 
-SQL 
+##SQL 
+
 
 W3Schools
 https://www.w3schools.com/SQL
@@ -16,7 +17,7 @@ Connection Strings
 https://www.connectionstrings.com/
 
 
-PHP
+##PHP
 
 W3Schools
 https://www.w3schools.com/php
@@ -29,5 +30,3 @@ https://www.amazon.com/PHP-Cookbook-Solutions-Examples-Programmers-ebook/dp/B00L
 
 PHP Code Checker
 https://phpcodechecker.com/
-
-
