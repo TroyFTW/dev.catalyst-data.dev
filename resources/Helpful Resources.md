@@ -16,6 +16,10 @@ https://www.amazon.com/SQL-QuickStart-Guide-Simplified-Beginners/dp/1508767483/r
 **Connection Strings**
 https://www.connectionstrings.com/
 
+**Helpful Sites/Blogs**
+Brent Ozar - brentozar.com
+Pinal Dave - sqlauthority.com
+
 
 ## PHP
 
