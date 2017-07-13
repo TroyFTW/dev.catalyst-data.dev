@@ -30,3 +30,13 @@ https://www.amazon.com/PHP-Cookbook-Solutions-Examples-Programmers-ebook/dp/B00L
 
 **PHP Code Checker**
 https://phpcodechecker.com/
+
+
+## UML Diagram Tools
+
+StarUML
+UML Designer
+Visio (requires MS license)
+Gliffy
+draw.io
+yUML
