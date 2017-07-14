@@ -44,3 +44,26 @@ Visio (requires MS license)
 Gliffy
 draw.io
 yUML
+
+
+## Bootstrap / Getting Started
+
+**Components**
+http://getbootstrap.com/components/
+
+**Initializr / Boilerplate**
+http://www.initializr.com/
+
+**Bootstrap Scaffolding**
+http://www.layoutit.com/
+
+
+## Cloud9 Tips
+
+**Commands to get MySQL and PHPMyAdmin Running**
+mysql-ctl install
+phpmyadmin-ctl install
+mysql-ctl start
+
+**Fix jQuery Error in Cloud9**
+When you run across "$ is not defined", fix this by adding /* global $ */
