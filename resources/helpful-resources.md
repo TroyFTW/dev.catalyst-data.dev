@@ -17,6 +17,7 @@ https://www.amazon.com/SQL-QuickStart-Guide-Simplified-Beginners/dp/1508767483/r
 https://www.connectionstrings.com/
 
 **Helpful Sites/Blogs**
+SQL Data Types - https://dev.mysql.com/doc/refman/5.5/en/data-types.html
 Brent Ozar - brentozar.com
 Pinal Dave - sqlauthority.com
 
