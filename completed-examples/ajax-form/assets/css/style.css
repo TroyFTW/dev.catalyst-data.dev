@@ -1,0 +1,14 @@
+/* custom styles */
+
+.wrapper{
+    padding-top: 50px;
+}
+
+#form-content{
+    margin: 0 auto;
+    width: 500px;
+}
+
+h1{
+    text-align: center;
+}
